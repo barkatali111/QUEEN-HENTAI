@@ -1,5 +1,5 @@
 { 
-    "name": "HENTAI-QUEEN",
+    "name": "BARKAT-KHOSA",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,21 +20,21 @@
         "js-whatsapp",
         "whatsapp",
         "dinuwa",
-        "QUEEN-HENTAI-md",
+        "KHOSA-KHOSA-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
     "homepage": "https://github.com/dinuwah/HENTAI-QUEEN",
     "author": {
-        "name": "Dinuwa Official²⁰²³"
+        "name": "Khosa Official²⁰²³"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dinuwah/HENTAI-QUEEN.git"
+        "url": "git+https://github.com/dinuwah/KHOSA-KING.git"
     },
     "bugs": {
-        "url": "https://github.com/dinuwah/HENTAI-QUEEN/issues"
+        "url": "https://github.com/dinuwah/BARKAT-KHOSA/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
